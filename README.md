@@ -15,7 +15,7 @@ A chat application which shares the concept of `Whatsapp`, the application inclu
 
 ### Client Side:
 
-The client application manages the user's groups and message history. 
+The client application is used to send messages between groups and manages the user's groups and message history. 
 
 The client side should use the following technologies:
 * Wpf
