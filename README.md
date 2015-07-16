@@ -39,4 +39,7 @@ The server application should be implmented using following technologies:
 * Tcp
 * Custom protocol for the communication
 
+### CCP (Custom Communication Protocol)
+
+This is the protocol which the server and the client are using in order to communicate with each other.
 
