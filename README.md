@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A chat application which includes a server and client side. The chat system will have a database of users, groups, messages and sessions.
+A chat application which shares the concept of `Whatsapp`, the application includes a server and client side. The chat system will have a database of users, groups, messages and sessions.
 
 ### Required Technologies/Concepts:
 
@@ -15,7 +15,7 @@ A chat application which includes a server and client side. The chat system will
 
 ### Client Side:
 
-Build a client application which shares the concept of `Whatsapp` application. The application manages the user's groups and message history. 
+The client application manages the user's groups and message history. 
 
 The client side should use the following technologies:
 * Wpf
@@ -38,6 +38,20 @@ The server application should be implmented using following technologies:
 * Async/Await programming
 * Tcp
 * Custom protocol for the communication
+
+**Flow Control**:
+
+On start:
+
+* A user connects to the server 
+* The server returns the user's groups
+* A dashboad with the user's groups will be rendered to the client
+
+Sending a message: (within a group)
+
+* message is sent to the server 
+* the server saves the message in the database 
+* broadcast the message to the group's users
 
 ### CCP (Custom Communication Protocol)
 
