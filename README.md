@@ -55,5 +55,5 @@ Sending a message: (within a group)
 
 ### CCP (Custom Communication Protocol)
 
-This is the protocol which the server and the client are using in order to communicate with each other. We will create the protocl.
+This is the protocol which the server and the client are using in order to communicate with each other. We will create the protocol.
 
