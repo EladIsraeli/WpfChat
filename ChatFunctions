@@ -1,0 +1,32 @@
+#ChatFuncions
+
+
+###Functions inside the specific chat
+
+-Abillity to send images.
+-Abillity to send messages.
+-Abillity to chose a smiley and send it.
+
+
+###Functions in the Sign in page
+
+-Send the Id and Password to check if the account is valid.
+-Abillity to sign up.
+
+###Functions in the Sign up page
+
+-Validation of the information before signing up.
+-Checking if there is no existing account.
+-Signing up button.
+
+###Functions in the List users and groups
+
+-Add a new user to the list.
+-Create a new group chat.
+-Option to select a specific user's chat , then gather all the information from the server(chat history)
+-Option to select a specific group's chat , then gather all the infromation from the server(chat history)
+
+
+
+
+
